@@ -1,8 +1,2 @@
-This is the first sample file being created.
-This is done for the testing purposes.
-#This thirdline didnt exist earlier but now I am doing it to check if merging is automatically possible or not
-Now this is the first time i am editing this file after creating it.
-Therefore this is going to be my i guess 4th commit as well.
-
-Now i am going to create a new branch and save this update which is actually my second update for this sample text file.
-ANd lets compare the same file between 2 branches. because the main branch will not have this change.
+This is first line.
+This is third line.
