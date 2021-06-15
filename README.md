@@ -1,2 +1,2 @@
 # Facultydata
-Faculty Data Management Application - Created using django web developement framework
+I used this repository to learn about Git.
